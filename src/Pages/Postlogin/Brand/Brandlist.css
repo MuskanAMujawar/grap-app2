@@ -1,0 +1,29 @@
+.Brand_Top_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    width: 150%;
+  }
+  
+  .Brand-Top-button button {
+    margin: 0px 15px;
+  }
+  
+  .card-container {
+    width: 150%;
+  }
+  
+  .options-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .options-container button {
+    margin-left: 10px;
+  }
+  .last_button{
+    margin-top: 20px;
+    display: flex;
+  }
+  
